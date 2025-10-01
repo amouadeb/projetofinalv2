@@ -1,0 +1,9 @@
+Versão:
+python==3.10 ou acima
+Bibliotecas:
+numpy
+pandas
+scikit-learn
+matplotlib
+seaborn
+plotly
